@@ -18,7 +18,7 @@ description:	      "This is the class website for CS1 at Purchase College, taugh
 author:              "Lee Tusman"
 
 
-baseurl: "/minimal-university" # the subpath of your site, e.g. /blog
-url: "http://leetusman.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cs1" # the subpath of your site, e.g. /blog
+url: "https://leetusman.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2sman2sman
 github_username:  lee2sman
